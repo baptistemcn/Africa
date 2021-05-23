@@ -2,51 +2,61 @@
   {
     "id" : "cheetah",
     "name" : "Cheetah",
-    "headline" : "Cheetah walking in the savannah"
+    "headline" : "Cheetah walking in the savannah",
+    "format": "mp4"
   },
   {
     "id" : "elephant",
     "name" : "Elephant",
-    "headline" : "African elephant with calf walking"
+    "headline" : "African elephant with calf walking",
+    "format": "mp4"
   },
   {
     "id" : "giraffe",
     "name" : "Giraffe",
-    "headline" : "Lonely giraffe walking in the savannah"
+    "headline" : "Lonely giraffe walking in the savannah",
+    "format": "mp4"
   },
   {
     "id" : "gorilla",
     "name" : "Gorilla",
-    "headline" : "Western lowland adult gorilla walking"
+    "headline" : "Western lowland adult gorilla walking",
+    "format": "mp4"
   },
   {
     "id" : "hippo",
     "name" : "Hippo",
-    "headline" : "A cow hippo and her calf together in the water"
+    "headline" : "A cow hippo and her calf together in the water",
+    "format": "mp4"
   },
   {
     "id" : "lioness",
     "name" : "Lioness",
-    "headline" : "African lioness slowly walking on the African savannah"
+    "headline" : "African lioness slowly walking on the African savannah",
+    "format": "mp4"
   },
   {
     "id" : "lion",
     "name" : "Lion",
-    "headline" : "Close-up of a growling African lion"
+    "headline" : "Close-up of a growling African lion",
+    "format": "mp4"
   },
   {
     "id" : "ostrich",
     "name" : "Ostrich",
-    "headline" : "Cock ostrich grazing on the savannah"
+    "headline" : "Cock ostrich grazing on the savannah",
+    "format": "mp4"
   },
   {
     "id" : "rhino",
     "name" : "Rhino",
-    "headline" : "Southern White Rhino walking in the grass"
+    "headline" : "Southern White Rhino walking in the grass",
+    "format": "mp4"
   },
   {
     "id" : "zebra",
     "name" : "Zebra",
-    "headline" : "Adult striped zebra grazing rusty grass in summer"
+    "headline" : "Adult striped zebra grazing rusty grass in summer",
+    "format": "mp4"
   }
 ]
