@@ -26,10 +26,7 @@ struct MapView: View {
         Map(coordinateRegion: $region, annotationItems: locations, annotationContent: {
             item in
             MapAnnotation(coordinate: item.location) {
-                Image("logo")
-                    .resizable()
-                    .scaledToFit()
-                    .frame(width: 32, height: 32, alignment: .center)
+                MapAnnotationView(location: item)
             } //: ANNOTATION
         })
     }
